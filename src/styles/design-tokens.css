@@ -1,0 +1,89 @@
+/* WatUDoin Design System */
+
+:root {
+  /* Brand Colors - UW Blue Inspired */
+  --color-primary: #0066CC;
+  --color-primary-dark: #004C99;
+  --color-primary-light: #3D8AE5;
+  
+  /* Accent Colors */
+  --color-accent-green: #00C853;
+  --color-accent-purple: #7C4DFF;
+  --color-accent-orange: #FF6B35;
+  --color-accent-pink: #FF4081;
+  --color-accent-yellow: #FED049;
+  
+  /* Category Colors */
+  --color-social: #00C853;
+  --color-academic: #0066CC;
+  --color-wellness: #7C4DFF;
+  --color-sports: #FF6B35;
+  --color-clubs: #FF4081;
+  --color-tech: #0066CC;
+  
+  /* Neutrals */
+  --color-gray-50: #F8F9FA;
+  --color-gray-100: #F1F3F5;
+  --color-gray-200: #E9ECEF;
+  --color-gray-300: #DEE2E6;
+  --color-gray-400: #CED4DA;
+  --color-gray-500: #ADB5BD;
+  --color-gray-600: #6C757D;
+  --color-gray-700: #495057;
+  --color-gray-800: #343A40;
+  --color-gray-900: #212529;
+  
+  /* Semantic */
+  --color-success: #00C853;
+  --color-warning: #FED049;
+  --color-error: #FF3B30;
+  
+  /* Spacing System */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 24px;
+  --space-8: 32px;
+  --space-10: 40px;
+  --space-12: 48px;
+  
+  /* Border Radius */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-xl: 20px;
+  --radius-2xl: 24px;
+  --radius-full: 9999px;
+  
+  /* Shadows */
+  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+  
+  /* Typography */
+  --font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Inter', 'Segoe UI', system-ui, sans-serif;
+  --font-size-xs: 12px;
+  --font-size-sm: 14px;
+  --font-size-base: 16px;
+  --font-size-lg: 18px;
+  --font-size-xl: 20px;
+  --font-size-2xl: 24px;
+  --font-size-3xl: 28px;
+  --font-size-4xl: 32px;
+}
+
+.dark {
+  --color-gray-50: #212529;
+  --color-gray-100: #343A40;
+  --color-gray-200: #495057;
+  --color-gray-300: #6C757D;
+  --color-gray-400: #ADB5BD;
+  --color-gray-500: #CED4DA;
+  --color-gray-600: #DEE2E6;
+  --color-gray-700: #E9ECEF;
+  --color-gray-800: #F1F3F5;
+  --color-gray-900: #F8F9FA;
+}

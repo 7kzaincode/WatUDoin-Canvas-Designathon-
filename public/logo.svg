@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Goose body -->
+  <path d="M100 100C100 60 130 30 160 30C180 30 190 40 190 60C190 80 170 100 150 100C130 100 100 140 100 170C100 140 70 100 50 100C30 100 10 80 10 60C10 40 20 30 40 30C70 30 100 60 100 100Z" fill="#4A90E2"/>
+  
+  <!-- Goose head -->
+  <path d="M160 40C160 30 155 20 140 20C125 20 120 30 120 40C120 50 130 60 140 60C150 60 160 50 160 40Z" fill="white"/>
+  
+  <!-- Eye -->
+  <circle cx="150" cy="40" r="3" fill="black"/>
+  
+  <!-- Beak -->
+  <path d="M170 40L180 35L190 40L180 45L170 40Z" fill="#FFB74D"/>
+  
+  <!-- Wing detail -->
+  <path d="M80 80C100 90 120 100 140 100" stroke="#1E88E5" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Text -->
+  <text x="100" y="160" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1E88E5">WatUDoin</text>
+</svg>
